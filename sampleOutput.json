@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Dino Grandoni",
+      "title": "EPA warns toxic 'forever chemicals' more dangerous than once thought - The Washington Post",
+      "description": "Guidance may spur water utilities to tackle PFAS, but health advocates are still waiting for mandatory limits.",
+      "url": "https://www.washingtonpost.com/climate-environment/2022/06/15/epa-pfas-forever-chemicals/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/745MRBQKPYI6ZJ6IMG5XWO7WFA.jpg&w=1440",
+      "publishedAt": "2022-06-15T16:00:00Z",
+      "content": "Placeholder while article actions load\r\nThe Environmental Protection Agency warned Wednesday that a group of human-made chemicals found in the drinking water, cosmetics and food packaging used by mil… [+6362 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "WHO looks into reports of monkeypox virus in semen - Reuters.com",
+      "description": "The World Health Organisation is looking into reports that the monkeypox virus is present in the semen of patients, exploring the possibility that the disease could be sexually transmitted, a WHO official said on Wednesday.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-looks-into-reports-monkeypox-virus-semen-2022-06-15/",
+      "urlToImage": "https://wwwhttps.reuters.com/resizer/VmzNyPgsWGf6Pop_jRfTg632GZM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZGWRQRCGWNJE5BBTHDI4YPKJ3M.jpg",
+      "publishedAt": "2022-06-15T14:36:00Z",
+      "content": "LONDON, June 15 (Reuters) - The World Health Organisation is looking into reports that the monkeypox virus is present in the semen of patients, exploring the possibility that the disease could be sex… [+2265 chars]"
+    }
+  ]
+}
