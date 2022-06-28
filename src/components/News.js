@@ -8,7 +8,7 @@ export class News extends Component {
 
   static defaultProps = {
     country:'in',
-    pageSize:8,
+    pageSize:6,
     category:'general'
   }
 
@@ -43,6 +43,7 @@ export class News extends Component {
   }
   async componentDidMount(){
     this.updateNews();
+
     this.setState({
       page:this.state.page+1
       });
